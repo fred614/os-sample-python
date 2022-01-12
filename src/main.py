@@ -8,4 +8,4 @@ async def root() -> str:
     return 'Salut à tous !'
 
 if __name__ == "__main__":
-    application.run()
+    app.run()
